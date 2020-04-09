@@ -1,0 +1,3 @@
+ballPNG
+catPNG
+pot1PNG

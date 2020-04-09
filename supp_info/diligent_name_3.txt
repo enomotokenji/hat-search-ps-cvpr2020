@@ -1,0 +1,6 @@
+buddhaPNG
+cowPNG
+gobletPNG
+harvestPNG
+pot2PNG
+readingPNG
