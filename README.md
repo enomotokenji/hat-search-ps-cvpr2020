@@ -29,7 +29,7 @@ python3 run.py --root_dir /mnt/DiLiGenT/pmsData --obj_file supp_info/diligent_na
 ```
 @inproceedings{enomoto2020photometric,
     title = {Photometric Stereo via Discrete Hypothesis-and-Test Search},
-    author = {Kenji Enomoto and Michael Waechter and Kyros Kutulakos and Yasuyuki Matsushita},
+    author = {Kenji Enomoto and Michael Waechter and Kiriakos N. Kutulakos and Yasuyuki Matsushita},
     booktitle = {Computer Vision and Pattern Recognition (CVPR)},
     year = {2020}
 }
