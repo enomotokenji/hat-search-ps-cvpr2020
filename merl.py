@@ -1,3 +1,14 @@
+"""
+:mod: `merl` -- MERL BRDF Python support
+========================================
+
+.. module:: merl
+    :synopsis: This module implements the support for MERL BRDF material
+               https://www.merl.com/brdf/
+
+.. moduleauthor:: Alban Fichet <alban.fichet@inria.fr>
+"""
+
 import struct
 import math
 
