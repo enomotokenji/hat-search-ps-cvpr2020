@@ -1,5 +1,18 @@
-# Photometric Stereo via Discrete Hypothesis-and-Test Search
-This is the official implementation for our CVPR paper 'Photometric Stereo via Discrete Hypothesis-and-Test Search'. Please find the paper [here](http://www-infobiz.ist.osaka-u.ac.jp/wp-content/uploads/2020/04/enomoto2020photometric.pdf).
+<p align="center">
+  <h3 align="center">Photometric Stereo via Discrete Hypothesis-and-Test Search</h3>
+  <h4 align="center">CVPR 2020</h5>
+  <p align="center"><a href="https://enomotokenji.github.io">Kenji Enomoto</a><sup>1</sup>&emsp;<a href="https://sites.google.com/view/mwaechter">Michael Waechter</a><sup>1</sup>&emsp;<a href="http://www.cs.toronto.edu/~kyros/">Kiriakos N. Kutulakos</a><sup>2</sup>&emsp;<a href="http://www-infobiz.ist.osaka-u.ac.jp/en/member/matsushita/">Yasuyuki Matsushita</a><sup>1</sup>
+    <br />
+    <sup>1</sup>Osaka University&emsp;<sup>2</sup>University of Toronto
+    <br />
+    <br />
+    <a href="http://cvl.ist.osaka-u.ac.jp/wp-content/uploads/2020/04/enomoto2020photometric.pdf">Paper</a>
+  </p>
+</p>
+
+---
+
+This is the official implementation for our CVPR paper 'Photometric Stereo via Discrete Hypothesis-and-Test Search'.
 
 # How to use
 
