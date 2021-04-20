@@ -7,6 +7,8 @@
     <br />
     <br />
     <a href="http://cvl.ist.osaka-u.ac.jp/wp-content/uploads/2020/04/enomoto2020photometric.pdf">Paper</a>
+    &emsp;
+    <a href="https://openaccess.thecvf.com/content_CVPR_2020/supplemental/Enomoto_Photometric_Stereo_via_CVPR_2020_supplemental.pdf">Supplementary</a>
   </p>
 </p>
 
